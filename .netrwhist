@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/bob/Sites/rails/hello_app'
+let g:netrw_dirhist_2='/Users/bob/Documents/Projects/rails/depot/app'
+let g:netrw_dirhist_3='/Users/bob/Documents/Projects/rails/depot/app/controllers'
+let g:netrw_dirhist_4='/Users/bob/Documents/Projects/rails/depot/app'
+let g:netrw_dirhist_5='/Users/bob/Documents/Projects/rails/depot/app/models'
